@@ -1,0 +1,7 @@
+Wheat,1kg,150,(High-yielding, semi-dwarf wheat variety suitable for northern Indian states.)
+Paddy Seeds,1kg,130, (High-yielding rice variety, short-duration, and resistant to common diseases ,IR-64, Kharif.)
+Maize Seeds,1kg,100, (Suitable for both Kharif and Rabi seasons; adaptable to varied conditions ,Ganga-5, Kharif/Rabi,.)
+Cotton Seeds,0.5kg,250, (Pest-resistant hybrid cotton seed, suitable for Indian cotton-growing regions.)
+Mustard Seeds,1kg,120, (High-yield mustard variety; ideal for cold winter regions with high oil yield ,Pusa Bold, Rabi,.)
+
+

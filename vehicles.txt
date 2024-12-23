@@ -1,0 +1,8 @@
+
+Tractor,1, 550000, (Mahindra 475 DI, 42 HP, Diesel,Suitable for medium to large farms; highly durable with good after-sales service.)
+Harvester,1, 1200000, ( Swaraj 8100 EX, 75 HP, Diesel,Multi-crop harvester, ideal for wheat, rice, and maize; reduces manual harvesting time.)
+Rotavator,1, 125000, ( Shaktiman Regular, 6 feet, Compatible with 45+ HP tractors,Used for soil preparation and mixing; suitable for dry and wet soil conditions.)
+Trolley,1, 75000, (Local Fabricated Model, 3 tons, None,Heavy-duty trolley, compatible with all tractors; ideal for transporting produce.)
+Sprayer,1, 5000, ( KisanKraft KK-708, 16 liters, Manual/Battery-powered,Suitable for pesticide and fertilizer spraying on small to medium-sized farms.)
+
+

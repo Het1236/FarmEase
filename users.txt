@@ -1,0 +1,4 @@
+admin,het,1236
+farmer,het,1236
+vendor,het,1236
+farmer,om patel,2610

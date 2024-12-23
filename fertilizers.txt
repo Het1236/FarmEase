@@ -1,0 +1,5 @@
+Urea,50 kg bag, 270, (Nitrogen Fertilizer, 46% Nitrogen, Promotes leaf growth; suitable for wheat, maize, and rice during early stages .)
+DAP (Diammonium Phosphate),50 kg bag, 1200, ( Phosphorus Fertilizer, 18% Nitrogen, 46% Phosphorus,Ideal for root development; beneficial for leguminous crops and cereals.)
+Potash (MOP - Muriate of Potash),50 kg bag, 800, (Potassium Fertilizer, 60% Potassium,Enhances fruit quality and stress resistance; essential for sugarcane, cotton, and vegetables.)
+NPK 10-26-26, 50 kg bag, 1150, (Balanced Fertilizer, 10% Nitrogen, 26% Phosphorus, 26% Potassium,Balanced fertilizer suitable for fruits, vegetables, and field crops.)
+Zinc Sulfate, 10 kg bag, 200, (Micronutrient Fertilizer, 21% Zinc,Corrects zinc deficiencies in soils; beneficial for maize, rice, and wheat.)
